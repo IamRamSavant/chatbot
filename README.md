@@ -70,16 +70,4 @@ npm start
 ```
 And the index.html file should open in your browser
 
-## Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-This project was inspired by the capabilities of OpenAI's API.
-
-## Contact
-For any inquiries or questions, you can reach me at tyleroneildev@gmail.com
-or on my linkedin at https://ca.linkedin.com/in/tyler-oneil-dev
 
